@@ -18,10 +18,10 @@ public:
         while(i<=j){
             if(s[i]!= s[j]){
                 return checkPalindrome(s, i+1, j) || checkPalindrome(s, i, j-1);
-            }else{
+            }
                 i++;
                 j--;
-            }
+            
         }
         return true ;
     }
