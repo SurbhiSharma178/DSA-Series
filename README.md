@@ -8,9 +8,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
