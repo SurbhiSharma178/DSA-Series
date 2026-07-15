@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
+| [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
