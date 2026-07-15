@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0035-search-insert-position) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
