@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0647-palindromic-substrings) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 ## Math
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
