@@ -3,23 +3,23 @@ public:
     string longestCommonPrefix(vector<string>& strs) {
         string ans;
         int i=0;
-        while(true){
+        // For finding shortest length string
+        int shortestLen= strs[0].size();
+
+        for(auto &str:strs){
+            shortestLen= std::min(shortestLen, (int)str.size());
+        }
+        while(i<shortestLen){
             char curr_char=0;
-            for(auto str: strs){
-                if(i>=str.size()){
-                    curr_char=0;
-                    break;
-                }
+            for(auto &str: strs){
+               
                 if(curr_char==0){
                     curr_char=str[i];
                 }else if( curr_char != str[i]){
-                    curr_char=0;
-                    break;
+                  return ans;
                 }
               
             }
-             if (curr_char == 0)
-                break;
                 ans.push_back(curr_char);
                 i++;
         }
