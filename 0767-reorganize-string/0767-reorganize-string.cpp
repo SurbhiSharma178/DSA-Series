@@ -33,10 +33,10 @@ public:
         while(hash[i]>0){
             // cout<< i << endl;
             index = index>=s.size() ?1 : index;
-            cout<<"index foe l and o " <<index << endl;
+            // cout<<"index foe l and o " <<index << endl;
             s[index]=i+'a';
             cout<< s[index]<< endl;
-            cout<< "current value at s "<< s<< endl;
+            // cout<< "current value at s "<< s<< endl;
             index+=2;
             hash[i]--;
         }
