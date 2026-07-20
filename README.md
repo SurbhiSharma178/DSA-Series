@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0767-reorganize-string) |
