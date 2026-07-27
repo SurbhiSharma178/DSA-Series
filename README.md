@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0917-reverse-only-letters) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0953-verifying-an-alien-dictionary) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0953-verifying-an-alien-dictionary) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0791-custom-sort-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
 |  |
 | ------- |
