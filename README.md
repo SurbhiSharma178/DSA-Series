@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0118-pascals-triangle) |
 | [0647-palindromic-substrings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
