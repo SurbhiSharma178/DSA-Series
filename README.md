@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0179-largest-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0118-pascals-triangle) |
 | [0647-palindromic-substrings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
