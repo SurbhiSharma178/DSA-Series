@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0035-search-insert-position) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SurbhiSharma178/DSA-Series/tree/master/0205-isomorphic-strings) |
